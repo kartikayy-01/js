@@ -1,0 +1,2 @@
+# js
+javascript (git mode)
